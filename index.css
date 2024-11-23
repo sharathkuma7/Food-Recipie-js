@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .row > div {
+    gap: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  body {
+    background: url("https://wallpapertag.com/wallpaper/full/a/b/f/115331-large-background-white-3779x2100.jpg");
+  }
